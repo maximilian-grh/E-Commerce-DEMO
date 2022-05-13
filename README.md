@@ -1,4 +1,7 @@
-E-Commerce
+E-Commerce Sample
+
+DEMO:
+https://dev-e-com.vercel.app
 
 - React
 - TailwindCSS
